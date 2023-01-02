@@ -8,3 +8,7 @@ I will discover numerous influences on wine quality and chemical distribution
 from the aforementioned dataset.Pre-processing will be done on the dataset,
 including filling in the null values and exploratory data analysis to find
 patterns.
+
+### Installation
+
+ requires [python](https://www.python.org/download/releases/3.0/) v3(3.6.9) to run.
